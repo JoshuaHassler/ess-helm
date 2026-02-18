@@ -506,7 +506,7 @@ matrixRTC:
     ## Should we generate this Ingress resource
     enabled: true
     ## What type of ingress resource should be used (Ingress, HTTPRoute)
-    type: Ingress
+    # type: Ingress
 
     ## Annotations to be added to this Ingress
     annotations: {}
@@ -1183,7 +1183,7 @@ elementAdmin:
     ## Should we generate this Ingress resource
     enabled: true
     ## What type of ingress resource should be used (Ingress, HTTPRoute)
-    type: Ingress
+    # type: Ingress
 
     ## Annotations to be added to this Ingress
     annotations: {}
@@ -1459,7 +1459,7 @@ elementWeb:
     ## Should we generate this Ingress resource
     enabled: true
     ## What type of ingress resource should be used (Ingress, HTTPRoute)
-    type: Ingress
+    # type: Ingress
 
     ## Annotations to be added to this Ingress
     annotations: {}
@@ -1990,7 +1990,7 @@ hookshot:
     ## Should we generate this Ingress resource
     enabled: true
     ## What type of ingress resource should be used (Ingress, HTTPRoute)
-    type: Ingress
+    # type: Ingress
 
     ## Annotations to be added to this Ingress
     annotations: {}
@@ -2454,7 +2454,7 @@ matrixAuthenticationService:
     ## Should we generate this Ingress resource
     enabled: true
     ## What type of ingress resource should be used (Ingress, HTTPRoute)
-    type: Ingress
+    # type: Ingress
 
     ## Annotations to be added to this Ingress
     annotations: {}
@@ -4986,7 +4986,7 @@ synapse:
     ## Should we generate this Ingress resource
     enabled: true
     ## What type of ingress resource should be used (Ingress, HTTPRoute)
-    type: Ingress
+    # type: Ingress
 
     ## Annotations to be added to this Ingress
     annotations: {}
@@ -5239,7 +5239,7 @@ wellKnownDelegation:
     ## Should we generate this Ingress resource
     enabled: true
     ## What type of ingress resource should be used (Ingress, HTTPRoute)
-    type: Ingress
+    # type: Ingress
 
     ## Annotations to be added to this Ingress
     annotations: {}
